@@ -1,0 +1,128 @@
+CALL OF DUTY: BLACK OPS II - ZOMBIES ACHIEVEMENTS
+Reference checklist (50 total). These are PC/Steam achievements for the
+standalone Zombies app; they are NOT tracked by Plutonium.
+
+
+======================================================================
+Base - TranZit / Green Run  (10)
+======================================================================
+[ ]  1. I Don't Think They Exist   (33.7% of players)
+        In TranZit, kill one of the denizens of the forest while it is latched onto you.
+[ ]  2. The Lights of Their Eyes   (16.8% of players)
+        In Green Run, pacify at least 10 zombies with 1 EMP.
+[ ]  3. Dance On My Grave   (15.3% of players)
+        In Green Run, acquire your Tombstone.
+[ ]  4. Fuel Efficient   (13.6% of players)
+        In TranZit, use an alternative mode of transportation.
+[ ]  5. Undead Man's Party Bus   (11.7% of players)
+        In TranZit, complete all additions to the bus in 1 game.
+[ ]  6. You Have No Power Over Me   (9.1% of players)
+        In TranZit, defeat "him" without being attacked by "him".
+[ ]  7. Happy Hour   (8.1% of players)
+        In TranZit, buy 2 different perks before turning on the power.
+[ ]  8. Tower of Babble   (4.0% of players)
+        In TranZit, obey the voices.
+[ ]  9. Standard Equipment May Vary   (4.0% of players)
+        In TranZit, acquire 4 different equippable items in 1 game.
+[ ] 10. Don't Fire Until You See   (3.4% of players)
+        In TranZit, have all doors opened without being set on fire.
+
+======================================================================
+Base - Nuketown Zombies (Diner Turned)  (3)
+======================================================================
+[ ] 11. Polyarmory   (3.1% of players)
+        In Diner Turned, get a kill with each primary weapon in a Public Match.
+[ ] 12. Monkey See, Monkey Doom   (3.1% of players)
+        In Diner Turned, retrieve a chained Cymbal Monkey in a Public Match.
+[ ] 13. I See Live People   (3.1% of players)
+        In Diner Turned, kill the human while its decoy is in play in a Public Match.
+
+======================================================================
+Revolution (Die Rise)  (7)
+======================================================================
+[ ] 14. Slippery When Undead   (5.0% of players)
+        In Die Rise, kill 5 zombies with a single shot from the Sliquifier.
+[ ] 15. Vertigoner   (4.9% of players)
+        In Die Rise, fling 10 zombies in one game.
+[ ] 16. I'm My Own Best Friend   (4.6% of players)
+        In Die Rise, revive yourself.
+[ ] 17. Mad Without Power   (4.1% of players)
+        In Die Rise, reach round 10 before turning on the power.
+[ ] 18. Facing the Dragon   (3.7% of players)
+        In Die Rise, face the dragon head-on before reaching round 2.
+[ ] 19. High Maintenance   (3.3% of players)
+        In Die Rise, be the architect of their instruction.
+[ ] 20. Shafted   (3.2% of players)
+        In Die Rise, use Pack-a-Punch and all perk machines in one game.
+
+======================================================================
+Uprising (Mob of the Dead)  (10)
+======================================================================
+[ ] 21. Paranormal Progress   (12.7% of players)
+        In Mob of the Dead, open a door without spending points.
+[ ] 22. Feed the Beast   (10.8% of players)
+        In Mob of the Dead, obtain Hell's Retriever.
+[ ] 23. No One Escapes Alive   (10.1% of players)
+        In Mob of the Dead, execute the escape plan.
+[ ] 24. GG Bridge   (7.6% of players)
+        In Mob of the Dead, survive an entire round on the bridge on round 15 or higher.
+[ ] 25. Acid Drip   (7.1% of players)
+        In Mob of the Dead, convert a weapon using a kit.
+[ ] 26. Making the Rounds   (6.4% of players)
+        In Mob of the Dead, complete the cycle 3 times.
+[ ] 27. Pop Goes the Weasel   (4.9% of players)
+        In Mob of the Dead, break the cycle.
+[ ] 28. A Burst of Flavor   (3.7% of players)
+        In Mob of the Dead, kill 10 zombies at once with a new beverage.
+[ ] 29. Trapped in Time   (3.3% of players)
+        In Mob of the Dead, use and upgrade all traps before round 10.
+[ ] 30. Full Lockdown   (3.2% of players)
+        In Mob of the Dead, Brutus completes his patrol.
+
+======================================================================
+Vengeance (Buried)  (10)
+======================================================================
+[ ] 31. Ectoplasmic Residue   (12.1% of players)
+        In Buried, acquire a perk for free.
+[ ] 32. Candygram   (11.1% of players)
+        In Buried, make a candy delivery.
+[ ] 33. When the Revolution Comes   (8.3% of players)
+        In Buried, return to processing.
+[ ] 34. Revisionist Historian   (8.0% of players)
+        In Buried, rewrite history.
+[ ] 35. I'm Your Huckleberry   (6.0% of players)
+        In Buried, access all areas with the help of your new friend in one game.
+[ ] 36. Death From Below   (5.3% of players)
+        In Buried, drop the beat on 10 zombies in one game.
+[ ] 37. FSIRT Against the Wall   (4.6% of players)
+        In Buried, purchase the LSAT off the wall and Pack-a-Punch it.
+[ ] 38. Mazed and Confused   (3.5% of players)
+        In Buried, survive an entire round within the maze on round 20 or higher.
+[ ] 39. Mined Games   (3.4% of players)
+        In Buried, be their pawn.
+[ ] 40. Awaken the Gazebo   (3.4% of players)
+        In Buried, Pack-a-Punch a weapon during round 1 with no one using the bank or Weapon Locker.
+
+======================================================================
+Apocalypse (Origins)  (10)
+======================================================================
+[ ] 41. All Your Base   (8.7% of players)
+        In Origins, activate all generators without allowing one to stop.
+[ ] 42. Playing with Power   (5.9% of players)
+        In Origins, build all elemental staffs in one game.
+[ ] 43. Not a Gold Digger   (4.7% of players)
+        In Origins, share a weapon you dug up.
+[ ] 44. Overachiever   (3.7% of players)
+        In Origins, complete all 4 Challenges in one game.
+[ ] 45. Little Lost Girl   (3.4% of players)
+        In Origins, release Samantha.
+[ ] 46. Master Wizard   (3.0% of players)
+        In Origins, wield all of the ultimate staffs in one game.
+[ ] 47. Kung Fu Grip   (2.5% of players)
+        In Origins, free yourself and another from the Panzer Soldat’s claw in one game.
+[ ] 48. I’m on a Tank!   (2.4% of players)
+        In Origins, ride the tank around the map without getting off.
+[ ] 49. Master of Disguise   (2.3% of players)
+        In Origins, use Zombie Blood to revive three players and activate a generator in one game.
+[ ] 50. Saving the Day...All Day   (1.8% of players)
+        In Origins, revive another player four different ways in one game.

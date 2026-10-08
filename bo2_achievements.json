@@ -1,0 +1,181 @@
+{
+  "appid": "202970",
+  "count": 35,
+  "achievements": {
+    "SP_ONE_CHALLENGE": {
+      "title": "Just Gettin' Started",
+      "description": "Complete 1 challenge in any level.",
+      "percent": 53.3
+    },
+    "SP_COMPLETE_ANGOLA": {
+      "title": "No Man Left Behind",
+      "description": "Rescue Woods.",
+      "percent": 52.7
+    },
+    "SP_COMPLETE_MONSOON": {
+      "title": "Gathering Storm",
+      "description": "Investigate the jungle facility.",
+      "percent": 46.0
+    },
+    "SP_MISC_WEAPONS": {
+      "title": "Gun Nut",
+      "description": "Complete a level with customized loadout.",
+      "percent": 43.3
+    },
+    "SP_COMPLETE_AFGHANISTAN": {
+      "title": "Shifting Sands",
+      "description": "Gather intel on Raul Menendez from Mullah Rahmaan.",
+      "percent": 41.3
+    },
+    "SP_COMPLETE_NICARAGUA": {
+      "title": "Driven by Rage",
+      "description": "Take down Menendez and his operation.",
+      "percent": 35.3
+    },
+    "SP_COMPLETE_PAKISTAN": {
+      "title": "Waterlogged",
+      "description": "Gather information on Raul Menendez' suspected terrorist plot.",
+      "percent": 32.9
+    },
+    "SP_COMPLETE_KARMA": {
+      "title": "What Happens in Colossus...",
+      "description": "Find the Karma weapon.",
+      "percent": 31.4
+    },
+    "SP_COMPLETE_PANAMA": {
+      "title": "False Profit",
+      "description": "Capture Manuel Noriega and bring him to justice.",
+      "percent": 30.2
+    },
+    "SP_RTS_DRONE": {
+      "title": "Deep Cover",
+      "description": "Capture Menendez.",
+      "percent": 29.3
+    },
+    "SP_COMPLETE_YEMEN": {
+      "title": "Defender",
+      "description": "Successfully defend FOB Spectre from incursion.",
+      "percent": 29.3
+    },
+    "SP_COMPLETE_BLACKOUT": {
+      "title": "Sinking Star",
+      "description": "Interrogate Menendez.",
+      "percent": 28.8
+    },
+    "SP_COMPLETE_LA": {
+      "title": "Late for the Prom",
+      "description": "Escort the president to the secure location in downtown LA.",
+      "percent": 27.4
+    },
+    "SP_COMPLETE_HAITI": {
+      "title": "Death from Above",
+      "description": "Stop Menendez once and for all.",
+      "percent": 26.7
+    },
+    "SP_STORY_MENENDEZ_CAPTURED": {
+      "title": "Dead or Alive",
+      "description": "Jailor or executioner.",
+      "percent": 25.9
+    },
+    "SP_STORY_HARPER_LIVES": {
+      "title": "Ultimate Sacrifice",
+      "description": "Only one can survive.",
+      "percent": 25.0
+    },
+    "SP_STORY_LINK_CIA": {
+      "title": "Dirty Business",
+      "description": "Listen and think before you shoot.",
+      "percent": 22.8
+    },
+    "SP_STORY_HARPER_FACE": {
+      "title": "Hey Good Looking",
+      "description": "Plastic surgery avoided.",
+      "percent": 16.3
+    },
+    "SP_RTS_DOCKSIDE": {
+      "title": "Singapore Sling",
+      "description": "Successfully neutralize the SDC freighter at Keppel Terminal.",
+      "percent": 12.4
+    },
+    "SP_STORY_MASON_LIVES": {
+      "title": "Family Reunion",
+      "description": "There are two futures.",
+      "percent": 11.6
+    },
+    "SP_RTS_AFGHANISTAN": {
+      "title": "Desert Storm",
+      "description": "Successfully escort the VIPs to safety.",
+      "percent": 11.5
+    },
+    "SP_RTS_PAKISTAN": {
+      "title": "Art of War",
+      "description": "Successfully assassinate SDC Chairman Tian Zhao.",
+      "percent": 9.9
+    },
+    "SP_RTS_SOCOTRA": {
+      "title": "Blind Date",
+      "description": "Successfully rescue HVI.",
+      "percent": 7.6
+    },
+    "SP_STORY_OBAMA_SURVIVES": {
+      "title": "Ship Shape",
+      "description": "Reinforcements on the way.",
+      "percent": 7.5
+    },
+    "SP_STORY_99PERCENT": {
+      "title": "Man of the People",
+      "description": "Stop the brutality inflicted by the PDF.",
+      "percent": 7.0
+    },
+    "SP_RTS_CARRIER": {
+      "title": "Black Ops II Master",
+      "description": "Complete the campaign on Hardened or Veteran difficulty.",
+      "percent": 6.4
+    },
+    "SP_STORY_FARID_DUEL": {
+      "title": "Showdown",
+      "description": "A duel between rivals.",
+      "percent": 5.6
+    },
+    "SP_MISC_10K_SCORE_ALL": {
+      "title": "Ten K",
+      "description": "Minimum score of 10k in every mission.",
+      "percent": 5.5
+    },
+    "SP_BACK_TO_FUTURE": {
+      "title": "Back in Time",
+      "description": "Use a future weapon in the past.",
+      "percent": 5.3
+    },
+    "SP_STORY_CHLOE_LIVES": {
+      "title": "Good Karma",
+      "description": "Crack the celerium worm.",
+      "percent": 4.8
+    },
+    "SP_VETERAN_PAST": {
+      "title": "Old Fashioned",
+      "description": "Complete \"Pyrrhic Victory\", \"Old Wounds\", \"Time And Fate\", and \"Suffer With Me\" in Veteran.",
+      "percent": 3.7
+    },
+    "SP_VETERAN_FUTURE": {
+      "title": "Futurist",
+      "description": "Complete all future levels in veteran.",
+      "percent": 3.4
+    },
+    "SP_MISC_ALL_INTEL": {
+      "title": "High IQ",
+      "description": "Collect all intel.",
+      "percent": 2.2
+    },
+    "SP_ALL_CHALLENGES_IN_LEVEL": {
+      "title": "Mission Complete",
+      "description": "Complete all challenges in a level.",
+      "percent": 2.1
+    },
+    "SP_ALL_CHALLENGES_IN_GAME": {
+      "title": "Giant Accomplishment",
+      "description": "Complete all challenges in Black Ops II.",
+      "percent": 1.8
+    }
+  }
+}

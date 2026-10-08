@@ -1,0 +1,356 @@
+{
+  "appid": "212910",
+  "count": 50,
+  "achievements": [
+    {
+      "title": "I Don't Think They Exist",
+      "description": "In TranZit, kill one of the denizens of the forest while it is latched onto you.",
+      "percent": 33.7,
+      "map": "TranZit",
+      "pack": "Base - TranZit / Green Run"
+    },
+    {
+      "title": "The Lights of Their Eyes",
+      "description": "In Green Run, pacify at least 10 zombies with 1 EMP.",
+      "percent": 16.8,
+      "map": "Green Run",
+      "pack": "Base - TranZit / Green Run"
+    },
+    {
+      "title": "Dance On My Grave",
+      "description": "In Green Run, acquire your Tombstone.",
+      "percent": 15.3,
+      "map": "Green Run",
+      "pack": "Base - TranZit / Green Run"
+    },
+    {
+      "title": "Fuel Efficient",
+      "description": "In TranZit, use an alternative mode of transportation.",
+      "percent": 13.6,
+      "map": "TranZit",
+      "pack": "Base - TranZit / Green Run"
+    },
+    {
+      "title": "Paranormal Progress",
+      "description": "In Mob of the Dead, open a door without spending points.",
+      "percent": 12.7,
+      "map": "Mob of the Dead",
+      "pack": "Uprising (Mob of the Dead)"
+    },
+    {
+      "title": "Ectoplasmic Residue",
+      "description": "In Buried, acquire a perk for free.",
+      "percent": 12.1,
+      "map": "Buried",
+      "pack": "Vengeance (Buried)"
+    },
+    {
+      "title": "Undead Man's Party Bus",
+      "description": "In TranZit, complete all additions to the bus in 1 game.",
+      "percent": 11.7,
+      "map": "TranZit",
+      "pack": "Base - TranZit / Green Run"
+    },
+    {
+      "title": "Candygram",
+      "description": "In Buried, make a candy delivery.",
+      "percent": 11.1,
+      "map": "Buried",
+      "pack": "Vengeance (Buried)"
+    },
+    {
+      "title": "Feed the Beast",
+      "description": "In Mob of the Dead, obtain Hell's Retriever.",
+      "percent": 10.8,
+      "map": "Mob of the Dead",
+      "pack": "Uprising (Mob of the Dead)"
+    },
+    {
+      "title": "No One Escapes Alive",
+      "description": "In Mob of the Dead, execute the escape plan.",
+      "percent": 10.1,
+      "map": "Mob of the Dead",
+      "pack": "Uprising (Mob of the Dead)"
+    },
+    {
+      "title": "You Have No Power Over Me",
+      "description": "In TranZit, defeat \"him\" without being attacked by \"him\".",
+      "percent": 9.1,
+      "map": "TranZit",
+      "pack": "Base - TranZit / Green Run"
+    },
+    {
+      "title": "All Your Base",
+      "description": "In Origins, activate all generators without allowing one to stop.",
+      "percent": 8.7,
+      "map": "Origins",
+      "pack": "Apocalypse (Origins)"
+    },
+    {
+      "title": "When the Revolution Comes",
+      "description": "In Buried, return to processing.",
+      "percent": 8.3,
+      "map": "Buried",
+      "pack": "Vengeance (Buried)"
+    },
+    {
+      "title": "Happy Hour",
+      "description": "In TranZit, buy 2 different perks before turning on the power.",
+      "percent": 8.1,
+      "map": "TranZit",
+      "pack": "Base - TranZit / Green Run"
+    },
+    {
+      "title": "Revisionist Historian",
+      "description": "In Buried, rewrite history.",
+      "percent": 8.0,
+      "map": "Buried",
+      "pack": "Vengeance (Buried)"
+    },
+    {
+      "title": "GG Bridge",
+      "description": "In Mob of the Dead, survive an entire round on the bridge on round 15 or higher.",
+      "percent": 7.6,
+      "map": "Mob of the Dead",
+      "pack": "Uprising (Mob of the Dead)"
+    },
+    {
+      "title": "Acid Drip",
+      "description": "In Mob of the Dead, convert a weapon using a kit.",
+      "percent": 7.1,
+      "map": "Mob of the Dead",
+      "pack": "Uprising (Mob of the Dead)"
+    },
+    {
+      "title": "Making the Rounds",
+      "description": "In Mob of the Dead, complete the cycle 3 times.",
+      "percent": 6.4,
+      "map": "Mob of the Dead",
+      "pack": "Uprising (Mob of the Dead)"
+    },
+    {
+      "title": "I'm Your Huckleberry",
+      "description": "In Buried, access all areas with the help of your new friend in one game.",
+      "percent": 6.0,
+      "map": "Buried",
+      "pack": "Vengeance (Buried)"
+    },
+    {
+      "title": "Playing with Power",
+      "description": "In Origins, build all elemental staffs in one game.",
+      "percent": 5.9,
+      "map": "Origins",
+      "pack": "Apocalypse (Origins)"
+    },
+    {
+      "title": "Death From Below",
+      "description": "In Buried, drop the beat on 10 zombies in one game.",
+      "percent": 5.3,
+      "map": "Buried",
+      "pack": "Vengeance (Buried)"
+    },
+    {
+      "title": "Slippery When Undead",
+      "description": "In Die Rise, kill 5 zombies with a single shot from the Sliquifier.",
+      "percent": 5.0,
+      "map": "Die Rise",
+      "pack": "Revolution (Die Rise)"
+    },
+    {
+      "title": "Vertigoner",
+      "description": "In Die Rise, fling 10 zombies in one game.",
+      "percent": 4.9,
+      "map": "Die Rise",
+      "pack": "Revolution (Die Rise)"
+    },
+    {
+      "title": "Pop Goes the Weasel",
+      "description": "In Mob of the Dead, break the cycle.",
+      "percent": 4.9,
+      "map": "Mob of the Dead",
+      "pack": "Uprising (Mob of the Dead)"
+    },
+    {
+      "title": "Not a Gold Digger",
+      "description": "In Origins, share a weapon you dug up.",
+      "percent": 4.7,
+      "map": "Origins",
+      "pack": "Apocalypse (Origins)"
+    },
+    {
+      "title": "I'm My Own Best Friend",
+      "description": "In Die Rise, revive yourself.",
+      "percent": 4.6,
+      "map": "Die Rise",
+      "pack": "Revolution (Die Rise)"
+    },
+    {
+      "title": "FSIRT Against the Wall",
+      "description": "In Buried, purchase the LSAT off the wall and Pack-a-Punch it.",
+      "percent": 4.6,
+      "map": "Buried",
+      "pack": "Vengeance (Buried)"
+    },
+    {
+      "title": "Mad Without Power",
+      "description": "In Die Rise, reach round 10 before turning on the power.",
+      "percent": 4.1,
+      "map": "Die Rise",
+      "pack": "Revolution (Die Rise)"
+    },
+    {
+      "title": "Tower of Babble",
+      "description": "In TranZit, obey the voices.",
+      "percent": 4.0,
+      "map": "TranZit",
+      "pack": "Base - TranZit / Green Run"
+    },
+    {
+      "title": "Standard Equipment May Vary",
+      "description": "In TranZit, acquire 4 different equippable items in 1 game.",
+      "percent": 4.0,
+      "map": "TranZit",
+      "pack": "Base - TranZit / Green Run"
+    },
+    {
+      "title": "Facing the Dragon",
+      "description": "In Die Rise, face the dragon head-on before reaching round 2.",
+      "percent": 3.7,
+      "map": "Die Rise",
+      "pack": "Revolution (Die Rise)"
+    },
+    {
+      "title": "A Burst of Flavor",
+      "description": "In Mob of the Dead, kill 10 zombies at once with a new beverage.",
+      "percent": 3.7,
+      "map": "Mob of the Dead",
+      "pack": "Uprising (Mob of the Dead)"
+    },
+    {
+      "title": "Overachiever",
+      "description": "In Origins, complete all 4 Challenges in one game.",
+      "percent": 3.7,
+      "map": "Origins",
+      "pack": "Apocalypse (Origins)"
+    },
+    {
+      "title": "Mazed and Confused",
+      "description": "In Buried, survive an entire round within the maze on round 20 or higher.",
+      "percent": 3.5,
+      "map": "Buried",
+      "pack": "Vengeance (Buried)"
+    },
+    {
+      "title": "Don't Fire Until You See",
+      "description": "In TranZit, have all doors opened without being set on fire.",
+      "percent": 3.4,
+      "map": "TranZit",
+      "pack": "Base - TranZit / Green Run"
+    },
+    {
+      "title": "Mined Games",
+      "description": "In Buried, be their pawn.",
+      "percent": 3.4,
+      "map": "Buried",
+      "pack": "Vengeance (Buried)"
+    },
+    {
+      "title": "Awaken the Gazebo",
+      "description": "In Buried, Pack-a-Punch a weapon during round 1 with no one using the bank or Weapon Locker.",
+      "percent": 3.4,
+      "map": "Buried",
+      "pack": "Vengeance (Buried)"
+    },
+    {
+      "title": "Little Lost Girl",
+      "description": "In Origins, release Samantha.",
+      "percent": 3.4,
+      "map": "Origins",
+      "pack": "Apocalypse (Origins)"
+    },
+    {
+      "title": "High Maintenance",
+      "description": "In Die Rise, be the architect of their instruction.",
+      "percent": 3.3,
+      "map": "Die Rise",
+      "pack": "Revolution (Die Rise)"
+    },
+    {
+      "title": "Trapped in Time",
+      "description": "In Mob of the Dead, use and upgrade all traps before round 10.",
+      "percent": 3.3,
+      "map": "Mob of the Dead",
+      "pack": "Uprising (Mob of the Dead)"
+    },
+    {
+      "title": "Shafted",
+      "description": "In Die Rise, use Pack-a-Punch and all perk machines in one game.",
+      "percent": 3.2,
+      "map": "Die Rise",
+      "pack": "Revolution (Die Rise)"
+    },
+    {
+      "title": "Full Lockdown",
+      "description": "In Mob of the Dead, Brutus completes his patrol.",
+      "percent": 3.2,
+      "map": "Mob of the Dead",
+      "pack": "Uprising (Mob of the Dead)"
+    },
+    {
+      "title": "Polyarmory",
+      "description": "In Diner Turned, get a kill with each primary weapon in a Public Match.",
+      "percent": 3.1,
+      "map": "Diner Turned",
+      "pack": "Base - Nuketown Zombies (Diner Turned)"
+    },
+    {
+      "title": "Monkey See, Monkey Doom",
+      "description": "In Diner Turned, retrieve a chained Cymbal Monkey in a Public Match.",
+      "percent": 3.1,
+      "map": "Diner Turned",
+      "pack": "Base - Nuketown Zombies (Diner Turned)"
+    },
+    {
+      "title": "I See Live People",
+      "description": "In Diner Turned, kill the human while its decoy is in play in a Public Match.",
+      "percent": 3.1,
+      "map": "Diner Turned",
+      "pack": "Base - Nuketown Zombies (Diner Turned)"
+    },
+    {
+      "title": "Master Wizard",
+      "description": "In Origins, wield all of the ultimate staffs in one game.",
+      "percent": 3.0,
+      "map": "Origins",
+      "pack": "Apocalypse (Origins)"
+    },
+    {
+      "title": "Kung Fu Grip",
+      "description": "In Origins, free yourself and another from the Panzer Soldat’s claw in one game.",
+      "percent": 2.5,
+      "map": "Origins",
+      "pack": "Apocalypse (Origins)"
+    },
+    {
+      "title": "I’m on a Tank!",
+      "description": "In Origins, ride the tank around the map without getting off.",
+      "percent": 2.4,
+      "map": "Origins",
+      "pack": "Apocalypse (Origins)"
+    },
+    {
+      "title": "Master of Disguise",
+      "description": "In Origins, use Zombie Blood to revive three players and activate a generator in one game.",
+      "percent": 2.3,
+      "map": "Origins",
+      "pack": "Apocalypse (Origins)"
+    },
+    {
+      "title": "Saving the Day...All Day",
+      "description": "In Origins, revive another player four different ways in one game.",
+      "percent": 1.8,
+      "map": "Origins",
+      "pack": "Apocalypse (Origins)"
+    }
+  ]
+}
